@@ -1,3 +1,7 @@
+**Cuenta de prueba:
+prueba@prueba.com
+123456**
+
 # Agendalia
 
 **Agendalia** es una agenda online **multiempresa** pensada para negocios que trabajan con citas
